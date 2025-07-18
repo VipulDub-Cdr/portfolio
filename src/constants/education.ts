@@ -21,14 +21,14 @@ export const experiences: ExperienceType[] = [
     description:
       "<12th Grade: 81% />",
   },
-  {
-    id: 3,
-    company: "Samaritans English Medium Higher Secondary School",
-    companyUrl: "",
-    designation: "",
-    startDate: "2018",
-    endDate: "2019",
-    description:
-      "<10th Grade: 91.4% />",
-  },
+  // {
+  //   id: 3,
+  //   company: "Samaritans English Medium Higher Secondary School",
+  //   companyUrl: "",
+  //   designation: "",
+  //   startDate: "2018",
+  //   endDate: "2019",
+  //   description:
+  //     "<10th Grade: 91.4% />",
+  // },
 ];
