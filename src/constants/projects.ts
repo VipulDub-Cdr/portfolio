@@ -17,7 +17,7 @@ export const projects: ProjectType[] = [
       "Rough Notation",
     ],
     live: "",
-    github: "",
+    github: "https://github.com/VipulDub-Cdr/portfolio",
     image: ["/project-1-light.png", "/project-1-dark.png"],
   },
   {
