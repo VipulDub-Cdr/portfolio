@@ -32,7 +32,7 @@ export const projects: ProjectType[] = [
       "gTTS",
       "tempfile",
     ],
-    live: "https://pairpro.site",
+    live: "",
     github: "https://github.com/VipulDub-Cdr/Interview_Experience",
     image: ["/project-2-light.png", "/project-2-dark.png"],
     projectStart: "May 2025",
