@@ -34,14 +34,6 @@ export const DESCRIPTION_TEXT = {
       highlight: true,
     },
     {
-      text: ", ",
-      highlight: false,
-    },
-    {
-      text: "PostgreSQL",
-      highlight: true,
-    },
-    {
       text: " to build web applications that users love. From intuitive ",
       highlight: false,
     },
