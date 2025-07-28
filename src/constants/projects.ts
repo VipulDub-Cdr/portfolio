@@ -67,7 +67,7 @@ export const projects: ProjectType[] = [
       "S3 Bucket",
       "Clerk",
       "MongoDB",
-      "Flask",
+      "Amazon Web Services",
     ],
     live: "",
     github: "https://github.com/VipulDub-Cdr/S3UI",
