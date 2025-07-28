@@ -70,7 +70,7 @@ export const projects: ProjectType[] = [
       "Flask",
     ],
     live: "",
-    github: "https://github.com/VipulDub-Cdr/Microservices-Arch",
+    github: "https://github.com/VipulDub-Cdr/S3UI",
     image: ["/s3ui.png", "/s3ui.png"],
     projectStart: "July 2025",
     projectEnd: "July 2025",
