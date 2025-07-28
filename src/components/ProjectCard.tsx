@@ -1,4 +1,4 @@
-import { RxArrowTopRight, RxGithubLogo } from "react-icons/rx";
+import { RxGithubLogo } from "react-icons/rx";
 import { motion } from "motion/react";
 
 import { useTheme } from "../context/theme.context.tsx";
@@ -113,7 +113,7 @@ const ProjectCard = ({ project }: { project: ProjectType }) => {
             Github
             <RxGithubLogo className="h-4 w-4" />
           </motion.a>
-          <motion.a
+          {/* <motion.a
             href={project.live}
             target="_blank"
             rel="noopener noreferrer"
@@ -123,7 +123,7 @@ const ProjectCard = ({ project }: { project: ProjectType }) => {
           >
             Website
             <RxArrowTopRight className="h-4 w-4" />
-          </motion.a>
+          </motion.a> */}
         </div>
       </motion.div>
     </motion.div>

@@ -70,19 +70,11 @@ export const DESCRIPTION_TEXT = {
       highlight: false,
     },
     {
-      text: " GenAI",
+      text: " GenAI.",
       highlight: true,
     },
     {
-      text: " and",
-      highlight: false,
-    },
-    {
-      text: " Agentic AI ",
-      highlight: true,
-    },
-    {
-      text:"I actively explore emerging technologies, aiming to integrate innovation and practicality in every project I work on.",
+      text:" I actively explore emerging technologies, aiming to integrate innovation and practicality in every project I work on.",
       highlight:false,
     }
 
