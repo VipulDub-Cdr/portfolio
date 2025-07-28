@@ -3,6 +3,25 @@ import { ProjectType } from "../types";
 export const projects: ProjectType[] = [
   {
     id: 1,
+    title: "Interview Experience Platform and CI/CD on AWS",
+    description:
+      "Streamlit-Based Interview Experience Platform with Generative AI and DevOps Pipeline",
+    techStack: [
+      "Python",
+      "Gradio",
+      "Google Generative AI",
+      "AWS CodePipeline",
+      "AWS CodeBuild",
+      "IAM Roles",
+    ],
+    live: "",
+    github: "https://github.com/VipulDub-Cdr/Interview_Experience",
+    image: ["/Interview.png", "/Interview.png"],
+    projectStart: "June 2025",
+    projectEnd: "July 2025",
+  },
+  {
+    id: 2,
     title: "Dev Portfolio",
     projectStart: "Jan 2025",
     projectEnd: "Jan 2025",
@@ -21,7 +40,7 @@ export const projects: ProjectType[] = [
     image: ["/project-1-light.png", "/project-1-dark.png"],
   },
   {
-    id: 2,
+    id: 3,
     title: "Microservices Based Architecture",
     description:
       "A containerized microservices setup with APIs for user write/read, using PostgreSQL for storage and Redis for caching.",
@@ -39,7 +58,7 @@ export const projects: ProjectType[] = [
     projectEnd: "July 2025",
   },
   {
-    id: 3,
+    id: 4,
     title: "S3 UI (In Progress)",
     description:
       "A simple UI built with React to browse, download, and manage files and folders stored in an Amazon S3 bucket.",
@@ -54,25 +73,6 @@ export const projects: ProjectType[] = [
     github: "https://github.com/VipulDub-Cdr/Microservices-Arch",
     image: ["/s3ui.png", "/s3ui.png"],
     projectStart: "July 2025",
-    projectEnd: "July 2025",
-  },
-  {
-    id: 4,
-    title: "Interview Experience Platform and CI/CD on AWS",
-    description:
-      "Streamlit-Based Interview Experience Platform with Generative AI and DevOps Pipeline",
-    techStack: [
-      "Python",
-      "Gradio",
-      "Google Generative AI",
-      "AWS CodePipeline",
-      "AWS CodeBuild",
-      "IAM Roles",
-    ],
-    live: "",
-    github: "https://github.com/VipulDub-Cdr/Interview_Experience",
-    image: ["/Interview.png", "/Interview.png"],
-    projectStart: "June 2025",
     projectEnd: "July 2025",
   },
 ];
