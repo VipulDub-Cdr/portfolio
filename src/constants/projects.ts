@@ -61,7 +61,7 @@ export const projects: ProjectType[] = [
     id: 4,
     title: "S3 UI (In Progress)",
     description:
-      "A simple UI built with React to browse, download, and manage files and folders stored in an Amazon S3 bucket.",
+      "A simple UI built with Next.js to browse, download, and manage files and folders stored in an Amazon S3 bucket.",
     techStack: [
       "Next.js",
       "S3 Bucket",
