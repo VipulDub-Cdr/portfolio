@@ -33,7 +33,7 @@ const About = () => {
 
   const handleResumeClick = () => {
     const resumeUrl =
-      "https://drive.google.com/file/d/1-slvF4fj65I0kUtlapG6ywi1OvV0tYMX/view?usp=sharing";
+      "https://drive.google.com/file/d/104n_-r462m8OAu2u5lKf8SvjeHW9l-K_/view?usp=drive_link";
     window.open(resumeUrl, "_blank", "noopener noreferrer");
   };
 
