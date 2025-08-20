@@ -35,7 +35,7 @@ export const projects: ProjectType[] = [
       "GSAP",
       "Rough Notation",
     ],
-    live: "",
+    live: "https://s3-ui-taupe.vercel.app/",
     github: "https://github.com/VipulDub-Cdr/portfolio",
     image: ["/project-1-light.png", "/project-1-dark.png"],
   },
