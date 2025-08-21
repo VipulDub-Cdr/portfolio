@@ -2,7 +2,7 @@ import { ProjectType } from "../types";
 
 export const projects: ProjectType[] = [
   {
-    id: 4,
+    id: 1,
     title: "S3 UI (In Progress)",
     description:
       "A simple UI built with Next.js to browse, download, and manage files and folders stored in an Amazon S3 bucket.",
@@ -40,7 +40,7 @@ export const projects: ProjectType[] = [
     image: ["/project-1-light.png", "/project-1-dark.png"],
   },
   {
-    id: 1,
+    id: 4,
     title: "Interview Experience Platform and CI/CD on AWS",
     description:
       "Streamlit-Based Interview Experience Platform with Generative AI and DevOps Pipeline",
