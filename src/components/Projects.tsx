@@ -7,7 +7,7 @@ export default function Project() {
       <div className="flex flex-col gap-1 justify-center bg-[#171717] text-white shadow-lg shadow-[#2e5145] rounded-2xl transition delay-50 duration-300 hover:scale-[102%]">
 
         <div>
-          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="../public/s3ui.png" alt="" />
+          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="/s3ui.png" alt="" />
         </div>
 
         <div className="px-2 flex flex-col justify-center gap-2 mx-1 mt-1 mb-0 pb-0">
