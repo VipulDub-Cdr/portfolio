@@ -40,6 +40,24 @@ export const projects: ProjectType[] = [
     image: ["/project-1-light.png", "/project-1-dark.png"],
   },
   {
+    id: 3,
+    title: "Microservices Based Architecture",
+    description:
+      "A containerized microservices setup with APIs for user write/read, using PostgreSQL for storage and Redis for caching.",
+    techStack: [
+      "Python",
+      "Docker-Compose",
+      "Postgres",
+      "Redis",
+      "Flask",
+    ],
+    live: "",
+    github: "https://github.com/VipulDub-Cdr/Microservices-Arch",
+    image: ["/microservicesLight.png", "/microservicesDark.png"],
+    projectStart: "July 2025",
+    projectEnd: "July 2025",
+  },
+  {
     id: 4,
     title: "Interview Experience Platform and CI/CD on AWS",
     description:
@@ -58,23 +76,6 @@ export const projects: ProjectType[] = [
     projectStart: "June 2025",
     projectEnd: "July 2025",
   },
-  {
-    id: 3,
-    title: "Microservices Based Architecture",
-    description:
-      "A containerized microservices setup with APIs for user write/read, using PostgreSQL for storage and Redis for caching.",
-    techStack: [
-      "Python",
-      "Docker-Compose",
-      "Postgres",
-      "Redis",
-      "Flask",
-    ],
-    live: "",
-    github: "https://github.com/VipulDub-Cdr/Microservices-Arch",
-    image: ["/microservicesLight.png", "/microservicesDark.png"],
-    projectStart: "July 2025",
-    projectEnd: "July 2025",
-  },
+  
   
 ];
