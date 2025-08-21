@@ -4,7 +4,7 @@ import { motion } from "motion/react";
 import { socialsInfo } from "../constants/socials";
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
+  // const currentYear = new Date().getFullYear();
 
   const containerVariants = {
     hidden: { opacity: 0, y: 20 },
@@ -55,7 +55,7 @@ const Footer = () => {
             className="text-text-secondary text-sm"
             variants={itemVariants}
           >
-            © {currentYear} Vipul Dubey. All rights reserved.
+            @ vipuldubey041@gmail.com
           </motion.p>
 
           <motion.div
