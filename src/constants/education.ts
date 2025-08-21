@@ -9,7 +9,7 @@ export const experiences: ExperienceType[] = [
     startDate: "Sep, 2022",
     endDate: "Present",
     description:
-      "<CGPA: 8.11/10 />",
+      "CGPA: 8.01/10",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ export const experiences: ExperienceType[] = [
     startDate: "2020",
     endDate: "2021",
     description:
-      "<12th Grade: 81% />",
+      "12th Grade: 81%",
   },
   // {
   //   id: 3,

@@ -67,7 +67,7 @@ const Header = () => {
 
       <motion.div
         initial="hidden"
-        animate="visible"
+        animate="invisible"
         variants={rightContentVariants}
       >
         <ThemeToggle />

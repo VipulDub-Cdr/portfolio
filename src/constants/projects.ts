@@ -57,25 +57,6 @@ export const projects: ProjectType[] = [
     projectStart: "July 2025",
     projectEnd: "July 2025",
   },
-  {
-    id: 4,
-    title: "Interview Experience Platform and CI/CD on AWS",
-    description:
-      "Streamlit-Based Interview Experience Platform with Generative AI and DevOps Pipeline",
-    techStack: [
-      "Python",
-      "Gradio",
-      "Google Generative AI",
-      "AWS CodePipeline",
-      "AWS CodeBuild",
-      "IAM Roles",
-    ],
-    live: "",
-    github: "https://github.com/VipulDub-Cdr/Interview_Experience",
-    image: ["/Interview.png", "/Interview.png"],
-    projectStart: "June 2025",
-    projectEnd: "July 2025",
-  },
   
   
 ];

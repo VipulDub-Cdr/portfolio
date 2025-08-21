@@ -1,15 +1,16 @@
-import { RxGithubLogo, RxLinkedinLogo, RxTwitterLogo } from "react-icons/rx";
-import { MdAlternateEmail } from "react-icons/md";
+// RxTwitterLogo 
+import { RxGithubLogo, RxLinkedinLogo, } from "react-icons/rx";
+// import { MdAlternateEmail } from "react-icons/md";
 
 import { SocialLinkType } from "../types";
 
 export const socialsInfo: SocialLinkType[] = [
-  {
-    id: 1,
-    name: "Email",
-    url: "mailto:vipuldubey041@gmail.com",
-    icon: MdAlternateEmail,
-  },
+  // {
+  //   id: 1,
+  //   name: "Email",
+  //   url: "mailto:vipuldubey041@gmail.com",
+  //   // icon: MdAlternateEmail,
+  // },
   {
     id: 2,
     name: "Github",
@@ -22,10 +23,10 @@ export const socialsInfo: SocialLinkType[] = [
     url: "https://www.linkedin.com/in/vipul-dubey-541629256",
     icon: RxLinkedinLogo,
   },
-  {
-    id: 4,
-    name: "Twitter",
-    url: "",
-    icon: RxTwitterLogo,
-  },
+  // {
+  //   id: 4,
+  //   name: "Twitter",
+  //   url: "https://x.com/VipulDubey_01",
+  //   icon: RxTwitterLogo,
+  // },
 ];
