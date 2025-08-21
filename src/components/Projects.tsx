@@ -37,7 +37,7 @@ export default function Project() {
       <div className="flex flex-col gap-1 justify-center bg-[#171717] text-white rounded-2xl shadow-lg shadow-[#2e5145] transition delay-50 duration-300 hover:scale-[102%]">
 
         <div>
-          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="../public/microservicesArch.png" alt="" />
+          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="/microservicesArch.png" alt="" />
         </div>
 
         <div className="px-2 flex flex-col justify-center gap-2 m-1">
@@ -68,7 +68,7 @@ export default function Project() {
       <div className="flex flex-col gap-1 justify-center bg-[#171717] text-white rounded-2xl shadow-lg shadow-[#2e5145] transition delay-50 duration-300 hover:scale-[102%]">
 
         <div>
-          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="../public/devportfolio.png" alt="" />
+          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="/devportfolio.png" alt="" />
         </div>
 
         <div className="px-2 flex flex-col justify-center gap-2 m-1">
@@ -98,7 +98,7 @@ export default function Project() {
       <div className="flex flex-col gap-1 justify-center bg-[#171717] text-white shadow-lg shadow-[#2e5145] rounded-2xl transition delay-50 duration-300 hover:scale-[102%]">
 
         <div>
-          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="../public/Q-VOX.png" alt="" />
+          <img className="object-cover rounded-2xl transition delay-50 duration-300 hover:scale-[103%]" src="/Q-VOX.png" alt="" />
         </div>
 
         <div className="px-2 flex flex-col justify-center gap-2 m-1">
