@@ -62,10 +62,6 @@ export const DESCRIPTION_TEXT = {
       highlight: true,
     },
     {
-      text: " , model deployment via",
-      highlight: false,
-    },
-    {
       text: ", or intelligent workflows using",
       highlight: false,
     },
