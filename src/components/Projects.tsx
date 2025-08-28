@@ -67,6 +67,14 @@ export default function Project() {
               </button>
 
             </a>
+            <a className="w-full" href="https://drive.google.com/file/d/1yEGwiy92IqaS4wl2qKOcj9pEHswsB-mP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+
+              <button className="w-full flex flex-row justify-center items-center gap-2 border-2 border-white py-1 rounded-xl bg-white text-black hover:cursor-pointer">
+                <img className="h-7 w-7" src="https://img.icons8.com/?size=100&id=35090&format=png&color=000000" alt="" />
+                <div>Demo</div>
+              </button>
+
+            </a>
 
             {/* <a href="https://s3-ui-taupe.vercel.app/" target="_blank" rel="noopener noreferrer">
               <button className="flex flex-row justify-center items-center gap-2 border-2 border-white px-2 py-1 rounded-xl bg-white text-black hover:cursor-pointer">
